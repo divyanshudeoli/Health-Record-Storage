@@ -23,3 +23,6 @@ I would like to take this to level where people actually use this
 Deploy it in some decentralise platform
 Provide functionality for user to directly share records (if they want) with certified research facilities
 Provide a certified list of medical person with whom user can directly share reports, and he inturn will share questionare and prescription for the user
+
+
+Feel Free to clone or Fork
