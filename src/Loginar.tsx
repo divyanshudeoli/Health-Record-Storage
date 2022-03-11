@@ -101,7 +101,7 @@ function Loginar(){
             ({ data: img}, wkey);
           }
           if(tagkey && tagval){
-            transactions.addTag(tagkey,tagval);
+            transaction.addTag(tagkey,tagval);
           }
           await arweave.transactions.sign(transaction, wkey);
           const response = await arweave.transactions.post(transaction);

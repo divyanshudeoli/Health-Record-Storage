@@ -1,0 +1,1 @@
+A Simple App for Health-Record-Storage build with different integrations with sevral Currency and Wallet to store and send the data on Arweave network 
